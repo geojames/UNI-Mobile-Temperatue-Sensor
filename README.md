@@ -50,7 +50,4 @@ Open-source Mobile Air and Surface Temperature Sensor for Urban Heat Island Mapp
 | 2 | Rubber washer (~0.3" ID x 1" OD) | https://www.mcmaster.com/90133A260/ |
 
 #### Tools 
-Soldering Ioron
-Solder 
-Wire strippers
-Diagonal cutters
+Soldering Iron, Solder, Wire strippers, Diagonal cutters, Screw drivers, Allen keys
