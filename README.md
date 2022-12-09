@@ -12,7 +12,6 @@ Open-source Mobile Air and Surface Temperature Sensor for Urban Heat Island Mapp
 | 1 | SparkFun OpenLog | https://www.sparkfun.com/products/13712 |
 | 6 | Stemma Cables 50mm | https://www.adafruit.com/product/4399 |
 | 1 | SPDT Toggle Switch | https://www.adafruit.com/product/3221 |
-| 1 | MLX Circuit Board (in CircuitBoard folder) | |
 | 1 | Main Circuit Board (in CircuitBoard folder) | |
 #### Sensors
 | Qty | Part | Link |
@@ -21,6 +20,8 @@ Open-source Mobile Air and Surface Temperature Sensor for Urban Heat Island Mapp
 | 1 | Melexis MLX90614 |  | https://www.adafruit.com/product/1747 |
 | 1 | Adafruit SHT40 (Temp) | https://www.adafruit.com/product/4885 |
 | 1 | Adafruit BH1750 (Light) |  https://www.adafruit.com/product/4681 |
+| 1 | Stemma QT JST SH Conn | https://www.adafruit.com/product/4208 |
+| 1 | MLX Circuit Board (in CircuitBoard folder) | |
 #### Accessories
 | Qty | Part | Link |
 | --- | --- | --- |
