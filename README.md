@@ -17,7 +17,7 @@ Open-source Mobile Air and Surface Temperature Sensor for Urban Heat Island Mapp
 | Qty | Part | Link |
 | --- | --- | --- |
 | 1 | Adafruit Mini GPS | https://www.adafruit.com/product/4415 |
-| 1 | Melexis MLX90614 |  | https://www.adafruit.com/product/1747 |
+| 1 | Melexis MLX90614 | https://www.adafruit.com/product/1747 |
 | 1 | Adafruit SHT40 (Temp) | https://www.adafruit.com/product/4885 |
 | 1 | Adafruit BH1750 (Light) |  https://www.adafruit.com/product/4681 |
 | 1 | Stemma QT JST SH Conn | https://www.adafruit.com/product/4208 |
